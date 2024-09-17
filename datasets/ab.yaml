@@ -1,0 +1,8 @@
+train: /home/sponge/data/rjz/ultralytics-main/paper_data/train.txt
+val: /home/sponge/data/rjz/ultralytics-main/paper_data/val.txt
+
+# number of classes
+nc: 6
+
+# class names
+names: ['ore carrier', 'general cargo ship', 'bulk cargo carrier', 'container ship', 'fishing boat', 'passenger ship']
